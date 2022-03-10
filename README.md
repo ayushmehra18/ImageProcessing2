@@ -1,4 +1,4 @@
-# ImageProcessing2
+# Image_Processing2
 
 # Occlusion Detection
 
